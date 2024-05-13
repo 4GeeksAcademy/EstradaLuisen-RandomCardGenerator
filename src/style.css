@@ -1,1 +1,24 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.mainCard {
+  width: 340px;
+  height: 450px;
+}
+
+.topIcon {
+  width: 100px;
+  height: 100px;
+}
+
+.cardNum {
+  font-size: 220px;
+}
+
+.cardSymb {
+  font-size: 100px;
+}
+.bottomIcon {
+  width: 100px;
+  height: 100px;
+  transform: rotate(180deg);
+}
